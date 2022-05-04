@@ -1,1 +1,1 @@
-Project 0x01 - Learning emacs
+Project 0x01 - Learning Emacs
