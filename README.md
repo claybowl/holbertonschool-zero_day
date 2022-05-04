@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+Project 0x01 - Learning emacs
